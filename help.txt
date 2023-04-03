@@ -1,3 +1,6 @@
+# Disclaimer
+  This is just the code itself. You will have to install pywhatkit on your own machine in order to make the app work.
+
 # Install requirements:
   pip3 install -r requirements.txt
 
