@@ -1,0 +1,13 @@
+# Install requirements:
+  pip3 install -r requirements.txt
+
+# Separate messages in message-list.txt with the message delineator "/m"
+  Example: 
+    /m
+    Hello there this is message 1!
+    /m
+    Message 2 goes here.
+    /m  
+
+# How to create an exe:
+  pyinstaller -F test.py
